@@ -49,7 +49,8 @@ const styles = StyleSheet.create({
     borderTopLeftRadius: 10,
     borderTopRightRadius: 10,
     backgroundColor: "#1e1f4a",
-    width: "80%",
+    // width: "140%",
+    width: 285,
     gap: 20,
   },
   title: {
@@ -67,7 +68,8 @@ const styles = StyleSheet.create({
     height: 270,
     borderBottomLeftRadius: 10,
     borderBottomRightRadius: 10,
-    width: "80%",
+    width: "140%",
+    width: 285,
     gap: 8,
   },
 
